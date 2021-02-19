@@ -1,0 +1,23 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "e2e testing projects with cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "udemy"
+  ],
+  "author": "seijin",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^5.6.0",
+    "install": "^0.13.0",
+    "prettier": "2.2.1"
+  }
+}

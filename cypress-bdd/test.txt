@@ -1,0 +1,8 @@
+test text file for github integration
+
+^The above text is now staged. Is this in changes? Yes
+
+I created a new branch from master. . . I have yet to see those changes reflected in my github account?
+
+test
+test test

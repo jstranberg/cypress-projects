@@ -1,0 +1,17 @@
+{
+  "name": "cypress-bdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run-dashboard": "cypress run --record --key ff0637b0-9f22-4848-b274-ba83a15f37bf"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.4.0",
+    "prettier": "^2.2.1"
+  }
+}

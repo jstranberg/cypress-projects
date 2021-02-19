@@ -1,0 +1,23 @@
+{
+  "name": "cypress-testing-project",
+  "version": "1.0.0",
+  "description": "Automated software testing with Cypress (Udemy)",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "automation",
+    "udemy"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.2.0",
+    "prettier": "^2.2.1"
+  },
+  "prettier": "@cypress-testing-project/prettierrc"
+}
