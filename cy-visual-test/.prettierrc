@@ -1,4 +1,4 @@
-module.exports = {
+{
     "semi": false,
     "singleQuote": true,
     "useTabs": true,
@@ -6,4 +6,4 @@ module.exports = {
     "bracketSpacing": true,
     "arrowParens": "avoid",
     "trailingComma": "es5"
-};
+}
