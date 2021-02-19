@@ -1,6 +1,5 @@
 Feature: Send Feedback
 
-
     As a customer
     I can send my feedback via a form
 
