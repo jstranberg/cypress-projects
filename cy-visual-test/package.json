@@ -13,7 +13,12 @@
   "license": "ISC",
   "dependencies": {
     "@percy/cypress": "^2.3.4",
-    "cypress": "^6.3.0",
-    "cypress-image-snapshot": "^4.0.1"
+    "cypress-image-snapshot": "^4.0.1",
+    "cypress": "^6.4.0",
+    "cypress-cucumber-preprocessor": "^4.0.0",
+    "prettier": "^2.2.1"
+    },
+    "cypress-cucumber-preprocessor": {
+      "nonGlobalStepDefinitions": true
+    }
   }
-}

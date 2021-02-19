@@ -14,10 +14,13 @@
   ],
   "author": "seijin",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {
-    "cypress": "^5.6.0",
-    "install": "^0.13.0",
-    "prettier": "2.2.1"
+  "dependencies": {
+    "cypress": "^6.4.0",
+    "cypress-cucumber-preprocessor": "^4.0.0",
+    "prettier": "^2.2.1"
+    },
+    "cypress-cucumber-preprocessor": {
+      "nonGlobalStepDefinitions": true
+    }
   }
-}
+
