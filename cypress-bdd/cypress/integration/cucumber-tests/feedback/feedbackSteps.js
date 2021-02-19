@@ -12,7 +12,7 @@ class FeedbackPage {
     static fillFeedbackForm(){
         cy.get(NAME_INPUT).type("Name")
         cy.get(EMAIL_INPUT).type("fake@email.com")
-        cy.get(SUBJECT_INPUT).type("Subjet")
+        cy.get(SUBJECT_INPUT).type("Subject")
         cy.get(COMMENT_SELECTOR).type("Comment")
     }
     static submitFeedbackForm(){
