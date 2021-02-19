@@ -20,5 +20,5 @@ Feature: Login to Application
         When I fill the username with 'username'
             And I fill password with 'password'
             And I click on submit login
-        Then I am taken to the user homepage
+        Then I am taken to the user homepage 
             And I see "/bank" in the url

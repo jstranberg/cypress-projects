@@ -8,4 +8,4 @@ Feature: Send Feedback
         Given I open the feedback page
         When I fill out the feedback form
             And I click on the send button
-        Then I see "/sendFeedback.html" in the url
+        Then I see "/sendFeedback.html" in the url 
