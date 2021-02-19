@@ -44,4 +44,3 @@ it('should verify the user has logged out', () => {
     cy.url()
         .should('include', 'index.html')
 });
-})
