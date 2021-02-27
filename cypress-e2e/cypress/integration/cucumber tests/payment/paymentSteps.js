@@ -1,4 +1,4 @@
-const URL = 'http://zero.webappsecurity.com/index.html'
+const URL = '/index.html'
 const PAYMENT_PAYEE = 'wellsfargo'
 const PAYMENT_ACCOUNT = 'Credit Card'
 const PAYMENT_AMOUNT = '1000000'

@@ -1,6 +1,6 @@
 class Searchbox {
     static visit(){
-        cy.visit('http://zero.webappsecurity.com/index.html')
+        cy.visit('/index.html')
     }
 
     static enterSearchTerm(){

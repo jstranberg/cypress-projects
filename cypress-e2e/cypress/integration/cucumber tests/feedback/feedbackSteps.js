@@ -1,10 +1,10 @@
-const URL = 'http://zero.webappsecurity.com/feedback.html'
+const URL = '/feedback.html'
 const NAME = '#name'
 const EMAIL = '#email'
 const SUBJECT = '#subject'
 const COMMENT = '#comment'
 const SUBMIT_BUTTON = 'input[name="submit"]'
-const FEEDBACK_URL = 'http://zero.webappsecurity.com/sendFeedback.html'
+const FEEDBACK_URL = '/sendFeedback.html'
 
 class FeedbackPage {
     static visit(){

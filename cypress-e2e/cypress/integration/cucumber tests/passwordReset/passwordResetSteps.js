@@ -1,4 +1,4 @@
-const URL = 'http://zero.webappsecurity.com/index.html'
+const URL = '/index.html'
 const USER_EMAIL = 'user@email.com'
 
 class PasswordReset {

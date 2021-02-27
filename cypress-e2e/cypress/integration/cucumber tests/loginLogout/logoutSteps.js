@@ -1,5 +1,5 @@
 const LOGOUT_BUTTON = '#logout_link'
-const HOMEPAGE_URL = 'http://zero.webappsecurity.com/bank/account-summary.html'
+const HOMEPAGE_URL = '/bank/account-summary.html'
 
 class LogoutPage {
     static visitUserHomepage () {

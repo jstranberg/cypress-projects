@@ -11,5 +11,6 @@
     "responseTimeout": 15000,
     "video": false,
     "failOnStatusCode": false,
-    "ignoreTestFiles": ["*.js", "*.md"]
+    "ignoreTestFiles": ["*.js", "*.md"],
+    "baseUrl": "http://zero.webappsecurity.com"
 }

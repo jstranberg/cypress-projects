@@ -1,6 +1,6 @@
 class Transfer {
     static login(){
-        cy.visit('http://zero.webappsecurity.com/index.html')
+        cy.visit('/index.html')
         cy.get('#signin_button').click()
         cy.fixture('user').then(user => {
             const username = user.id

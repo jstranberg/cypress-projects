@@ -1,4 +1,4 @@
-const LOGIN_URL = 'http://zero.webappsecurity.com/login.html'
+const LOGIN_URL = '/login.html'
 const INVALID_USERNAME = 'invalid_username'
 const INVALID_PASSWORD = 'invalid_password'
 

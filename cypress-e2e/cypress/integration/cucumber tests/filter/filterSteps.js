@@ -1,4 +1,4 @@
-const LOGIN_URL = 'http://zero.webappsecurity.com/index.html'
+const LOGIN_URL = '/index.html'
 const DESCRIPTION = 'test_text'
 const FROM_DATE = '2020-01-01 {enter}'
 const TO_DATE = '2021-01-01 {enter}'

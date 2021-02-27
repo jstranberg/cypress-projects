@@ -1,4 +1,4 @@
-const URL = 'http://zero.webappsecurity.com/index.html'
+const URL = '/index.html'
 const PAYEE_NAME= 'payee_name'
 const PAYEE_ADDRESS= '123 sweet street'
 const PAYEE_ACCOUNT_NUMBER= '1234567890'

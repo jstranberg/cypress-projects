@@ -1,4 +1,4 @@
-const LOGIN_URL = 'http://zero.webappsecurity.com/index.html'
+const LOGIN_URL = '/index.html'
 const SIGNIN_BUTTON = '#signin_button'
 const PAY_BILLS_TAB = '#pay_bills_tab'
 const PAY_BILLS_URL = 'pay-bills.html'

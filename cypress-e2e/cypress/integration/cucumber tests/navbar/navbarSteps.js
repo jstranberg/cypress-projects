@@ -1,6 +1,6 @@
 class Navbar {
     static visitHomepage(){
-        cy.visit('http://zero.webappsecurity.com/index.html')
+        cy.visit('/index.html')
     }
 
     static accessHomeTab(){
