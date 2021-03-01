@@ -11,5 +11,6 @@
     "responseTimeout": 15000,
     "video": false,
     "failOnStatusCode": false,
-    "ignoreTestFiles": ["*.js", "*.md"]
+    "pluginsFile": false,
+    "numsKeptInMemory": 10
 }
