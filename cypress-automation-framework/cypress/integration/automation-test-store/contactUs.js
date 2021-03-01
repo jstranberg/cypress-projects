@@ -4,7 +4,7 @@ describe('Test contact form via Automation Test Store', () => {
         cy.get('#ContactUsFrm_first_name').type('Seijin')
         cy.get('#ContactUsFrm_email').type('devstudent89@gmail.com')
         cy.get('#ContactUsFrm_enquiry').type('Some comment')
-        cy.get('.col-md-6 > .btn').click()
+        cy.xpath('//*[@id="ContactUsFrm"]/div[2]/div[2]/button').click()
         cy.url().should('include', 'success')
     });
 
